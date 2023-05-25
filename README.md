@@ -17,7 +17,7 @@ Pengiriman dan penerimaan data dilakukan menggunakan MQTT, dimana lampu penyebra
 ## Board Schematic
 ![Schematic Board PA B2](https://github.com/AlyaniNS/pa-praktikum-iot-unmul-B2/assets/74224380/85e0b703-07d9-4927-bedd-b643bdd2e206)
 
-## Guide Book
+## Manual Book
 [ManualBook_IOT_B2.pdf](https://github.com/AlyaniNS/pa-praktikum-iot-unmul-B2/files/11567784/ManualBook_IOT_B2.pdf)
 
 ## Pembagian Tugas
